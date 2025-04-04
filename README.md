@@ -1,1 +1,1 @@
-# monttly-safety-check
+# monthly-safety-check
